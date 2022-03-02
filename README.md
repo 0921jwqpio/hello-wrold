@@ -1,2 +1,3 @@
 # hello-wrold
-my first repository on GitHub
+我在 GitHub 上的第一个存储库
+i fancy you
